@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "better days（feat. 加藤ミリヤ、田中ロウマ）",
+  "base_artist": "童子-T",
+  "createdAt": "2026-01-09T04:07:40.008048Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Better Days (feat. Ron Banks)",
+      "artist": "WC",
+      "has_synced": true,
+      "path": "select/01_Better_Days_(feat._Ron_Banks)_WC.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Better Days (feat. Polo G)",
+      "artist": "NEIKED",
+      "has_synced": false,
+      "path": "select/02_Better_Days_(feat._Polo_G)_NEIKED.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Better Days (feat. Johnta Austin)",
+      "artist": "JID feat. Johnta Austin",
+      "has_synced": true,
+      "path": "select/03_Better_Days_(feat._Johnta_Austin)_JID_feat._Johnta_Austin.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Better Days (feat. St. Lucia)",
+      "artist": "RAC",
+      "has_synced": true,
+      "path": "select/04_Better_Days_(feat._St._Lucia)_RAC.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Better Days (feat. Johnta Austin)",
+      "artist": "JID",
+      "has_synced": true,
+      "path": "select/05_Better_Days_(feat._Johnta_Austin)_JID.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Better Days (feat. Faydee & KARRA)",
+      "artist": "Arman Cekin",
+      "has_synced": true,
+      "path": "select/06_Better_Days_(feat._Faydee_&_KARRA)_Arman_Cekin.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Better Days (feat. Johnta Austin)",
+      "artist": "J.I.D",
+      "has_synced": true,
+      "path": "select/07_Better_Days_(feat._Johnta_Austin)_J.I.D.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Better Days (feat. Polo G) [Regard Remix]",
+      "artist": "NEIKED feat. Mae Muller, Polo G & Regard",
+      "has_synced": true,
+      "path": "select/08_Better_Days_(feat._Polo_G)_[Regard_Remix]_NEIKED_feat._Mae_Muller,_Polo_G_&_Regard.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Better Days (feat. Polo G)",
+      "artist": "NEIKED & Mae Muller",
+      "has_synced": true,
+      "path": "select/09_Better_Days_(feat._Polo_G)_NEIKED_&_Mae_Muller.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Better Days Feat. Punipunidenki, Super Brass - Single",
+      "artist": "Night Tempo",
+      "has_synced": false,
+      "path": "select/10_Better_Days_Feat._Punipunidenki,_Super_Brass_-_Single_Night_Tempo.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Better Days (feat. EXN & Super Brass)",
+      "artist": "Night Tempo feat. EXN & Super Brass",
+      "has_synced": false,
+      "path": "select/11_Better_Days_(feat._EXN_&_Super_Brass)_Night_Tempo_feat._EXN_&_Super_Brass.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Better Days (feat. Fetty Wap)",
+      "artist": "Coi Leray feat. Fetty Wap",
+      "has_synced": true,
+      "path": "select/12_Better_Days_(feat._Fetty_Wap)_Coi_Leray_feat._Fetty_Wap.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Better Days (feat. Puniden, Super Brass)",
+      "artist": "Night Tempo",
+      "has_synced": false,
+      "path": "select/13_Better_Days_(feat._Puniden,_Super_Brass)_Night_Tempo.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Better Days (feat. Aloe Blacc)",
+      "artist": "Mesto feat. Aloe Blacc",
+      "has_synced": true,
+      "path": "select/14_Better_Days_(feat._Aloe_Blacc)_Mesto_feat._Aloe_Blacc.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Better Days (feat. Aloe Blacc)",
+      "artist": "Mesto",
+      "has_synced": true,
+      "path": "select/15_Better_Days_(feat._Aloe_Blacc)_Mesto.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Better Days (feat. BNXN fka Buju)",
+      "artist": "Sarkodie feat. BNXN fka Buju",
+      "has_synced": true,
+      "path": "select/16_Better_Days_(feat._BNXN_fka_Buju)_Sarkodie_feat._BNXN_fka_Buju.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Better Days (feat. BNXN fka Buju)",
+      "artist": "Sarkodie",
+      "has_synced": true,
+      "path": "select/17_Better_Days_(feat._BNXN_fka_Buju)_Sarkodie.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Better Days (feat. Lil Flea)",
+      "artist": "Z-Ro feat. Lil Flea",
+      "has_synced": true,
+      "path": "select/18_Better_Days_(feat._Lil_Flea)_Z-Ro_feat._Lil_Flea.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "better days feat.加藤ミリヤ,田中ロウマ",
+      "artist": "童子-T",
+      "has_synced": false,
+      "path": "select/pl_01_better_days_feat.加藤ミリヤ,田中ロウマ_童子-T.txt"
+    }
+  ]
+}
